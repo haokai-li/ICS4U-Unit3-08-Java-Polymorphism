@@ -35,7 +35,7 @@ public class Bike extends Vehicle {
     * @return getCadence
     */
     public int getSpeed() {
-        return this.cadence;
+        return super.getSpeed();
     }
 
     /**

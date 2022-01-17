@@ -105,7 +105,7 @@ final class Main {
         aStack2.setColour(color2);
 
         System.out.println(SPARE
-                           + "Cadence: " + aStack2.getSpeed()
+                           + "Cadence: " + cadence
                            + SPARE
                            + "Colour: " + aStack2.getColour()
                            + SPARE
